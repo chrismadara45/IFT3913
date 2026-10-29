@@ -1,5 +1,9 @@
-# Tâche 3 – Chris Alex Belanov Ndabihawenimana et Dickson Ma
+# Tâche 3
 
-- Dépôt avec la GitHub Action modifiée : https://github.com/chrismadara45/tika/tree/tache3
-- README de la tâche 3 : https://github.com/chrismadara45/tika/blob/tache3/tache3/README.md
-  
+| Nom complet | Identifiant GitHub |
+|:---:|:---:|
+| Ndabihawenimana, Chris Alex Belanov | chrismadara45 |
+| Ma, Dickson | womboteemo |
+
+- Lien vers le répertoire GitHub : https://github.com/chrismadara45/tika/tree/tache3
+- Lien vers le README du répertoire : https://github.com/chrismadara45/tika/blob/tache3/tache3/README.md
